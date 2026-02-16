@@ -1,4 +1,4 @@
-async function myFunction() {
+sync function myFunction() {
  try {
  const result = await myPromise;
  console.log(result);
